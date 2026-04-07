@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+
+  fastapi:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_DB: sampledb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+
+  neo4j:
+    image: neo4j
+    environment:
+      NEO4J_AUTH: neo4j/password
+    ports:
+      - "7687:7687"
+      - "7474:7474"
