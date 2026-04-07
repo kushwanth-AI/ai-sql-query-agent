@@ -103,7 +103,8 @@ streamlit run streamlit_app.py
 *Add your application screenshot here*
 
 ```
-![App Screenshot](screenshot.png)
+![![ai-sql-agent-output-demo](https://github.com/user-attachments/assets/05e4a117-b61a-402c-9882-a2f1762f5be8)
+)
 ```
 
 ---
