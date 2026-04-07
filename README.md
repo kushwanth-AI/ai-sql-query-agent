@@ -97,17 +97,9 @@ streamlit run streamlit_app.py
 👉 Open: http://localhost:8501
 
 ---
-
-## 📸 Demo
-
-*Add your application screenshot here*
-
-```
 ## 📸 Demo
 
 ![AI SQL Agent Demo](ai-sql-agent-demo.png)
-```
-
 ---
 
 ## 💡 Key Highlights
