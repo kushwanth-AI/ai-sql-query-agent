@@ -97,9 +97,11 @@ streamlit run streamlit_app.py
 👉 Open: http://localhost:8501
 
 ---
+
 ## 📸 Demo
 
 ![AI SQL Agent Demo](ai-sql-agent-demo.png)
+
 ---
 
 ## 💡 Key Highlights
@@ -134,7 +136,7 @@ streamlit run streamlit_app.py
 
 ## 👨‍💻 Author
 
-**  Kushwanth **
+**Kushwanth**
 
 ---
 
