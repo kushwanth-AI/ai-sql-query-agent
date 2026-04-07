@@ -140,7 +140,7 @@ streamlit run streamlit_app.py
 
 ## 👨‍💻 Author
 
-**Kushwanth Raj**
+**  Kushwanth **
 
 ---
 
