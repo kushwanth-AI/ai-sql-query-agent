@@ -100,7 +100,8 @@ streamlit run streamlit_app.py
 
 ## 📸 Demo
 
-![AI SQL Agent Demo](ai-sql-agent-demo.png)
+
+![ai-sql-agent-demo png](https://github.com/user-attachments/assets/bb4198dd-8bb8-4445-ab82-46bd59fbfcfe)
 
 ---
 
