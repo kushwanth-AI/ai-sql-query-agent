@@ -138,7 +138,7 @@ streamlit run streamlit_app.py
 
 ## 👨‍💻 Author
 
-**Kushwanth**
+**Kushwanth Yantrapati**
 
 ---
 
